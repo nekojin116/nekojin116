@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nekojin116
+- 👀 I’m interested in discord.js and graphics design
+- 🌱 I’m currently learning nothing , because of my school
+- 💞️ I wish to join 1337 school on 2024.
+- 📫 How to reach me : +212700331529 or iniassgalmi@gmail.com
