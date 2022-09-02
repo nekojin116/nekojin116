@@ -15,8 +15,7 @@ i'm nekojin116, a Game dev working in the memories train team <br>Currently devl
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nekojin116&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nekojin116&icon=6&color=8)](https://visitcount.itsvg.in)
