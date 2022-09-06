@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm nekojin116, a Game dev working in the memories train team <br>Currently devloping a new game in unity engine !!
+i'm nekojin116, a Game designer working in the memories train team <br>Currently devloping a new game in unity engine !!
 
 
 ## 🌐 Socials:
